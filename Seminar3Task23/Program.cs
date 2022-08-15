@@ -5,7 +5,7 @@
 
 Console.WriteLine("Введите число и мы покажем Вам значения куба всех чисел до заданного- ");
 int num = Convert.ToInt32(Console.ReadLine());
-// if (num < 0) Math.Abs(num);
+if (num < 0) Math.Abs(num);
 int count = 1;
 while (count <= num)
 {
