@@ -10,9 +10,9 @@ num = Math.Abs(num);
 if (num >= 10000 & num <= 99999) 
 {
     string number = num.ToString();
-    for (int i = 0; i < number.Length/2; i++)
+    for (int i = 1; i < number.Length/2; i++)
     {
-        if(number[i] != number[number.Length-1-i]) Console.WriteLine("Не палиндром");
+        if(number[i] != number[number.Length - 1 -i]) Console.WriteLine("Не палиндром");
         else Console.WriteLine("Палиндром!");
         break;
     }  
