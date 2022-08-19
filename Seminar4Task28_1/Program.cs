@@ -20,15 +20,6 @@ Console.WriteLine("Числа массива -");
 Console.WriteLine(str);
 Console.WriteLine("Введите число");
 int N = Convert.ToInt32(Console.ReadLine());
-// int infl(int array.Length, int arg2)
-// {
-//     int result = 0;
-//     for (i = 0; i <= array.Length; i++)
-//     {
-//         result = result * arg2;
-//     }   
-//     return result;
-// int total = 1;
 for (i = 0; i <= array.Length-1; i++)
 {
         Console.WriteLine();
@@ -37,11 +28,4 @@ for (i = 0; i <= array.Length-1; i++)
         {
            Console.WriteLine("{0}", array[i] * j);         
         }
-        // Console.Write(total);
 }
-
-
-
-// Console.Write("Произведение чисел в массиве составляет  ");
-// ;
-// Console.Write($"Произведение чисел в массиве составляет  ", +infl(size, array[i]));
