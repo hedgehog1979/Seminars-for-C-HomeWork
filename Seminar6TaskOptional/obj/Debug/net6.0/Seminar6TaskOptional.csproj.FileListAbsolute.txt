@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar6TaskOptional\obj\Debug\net6.0\Seminar6TaskOptional.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar6TaskOptional\obj\Debug\net6.0\Seminar6TaskOptional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar6TaskOptional\obj\Debug\net6.0\Seminar6TaskOptional.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar6TaskOptional\obj\Debug\net6.0\Seminar6TaskOptional.AssemblyInfo.cs
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar6TaskOptional\obj\Debug\net6.0\Seminar6TaskOptional.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar6TaskOptional\bin\Debug\net6.0\Seminar6TaskOptional.exe
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar6TaskOptional\bin\Debug\net6.0\Seminar6TaskOptional.deps.json
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar6TaskOptional\bin\Debug\net6.0\Seminar6TaskOptional.runtimeconfig.json
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar6TaskOptional\bin\Debug\net6.0\Seminar6TaskOptional.dll
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar6TaskOptional\bin\Debug\net6.0\Seminar6TaskOptional.pdb
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar6TaskOptional\obj\Debug\net6.0\Seminar6TaskOptional.dll
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar6TaskOptional\obj\Debug\net6.0\refint\Seminar6TaskOptional.dll
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar6TaskOptional\obj\Debug\net6.0\Seminar6TaskOptional.pdb
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar6TaskOptional\obj\Debug\net6.0\Seminar6TaskOptional.genruntimeconfig.cache
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar6TaskOptional\obj\Debug\net6.0\ref\Seminar6TaskOptional.dll

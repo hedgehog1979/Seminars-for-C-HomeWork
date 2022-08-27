@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar7Task48\obj\Debug\net6.0\Seminar7Task48.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar7Task48\obj\Debug\net6.0\Seminar7Task48.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar7Task48\obj\Debug\net6.0\Seminar7Task48.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar7Task48\obj\Debug\net6.0\Seminar7Task48.AssemblyInfo.cs
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar7Task48\obj\Debug\net6.0\Seminar7Task48.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar7Task48\bin\Debug\net6.0\Seminar7Task48.exe
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar7Task48\bin\Debug\net6.0\Seminar7Task48.deps.json
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar7Task48\bin\Debug\net6.0\Seminar7Task48.runtimeconfig.json
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar7Task48\bin\Debug\net6.0\Seminar7Task48.dll
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar7Task48\bin\Debug\net6.0\Seminar7Task48.pdb
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar7Task48\obj\Debug\net6.0\Seminar7Task48.dll
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar7Task48\obj\Debug\net6.0\refint\Seminar7Task48.dll
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar7Task48\obj\Debug\net6.0\Seminar7Task48.pdb
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar7Task48\obj\Debug\net6.0\Seminar7Task48.genruntimeconfig.cache
+C:\Users\User\Documents\GeekBrains\Git\Seminars-for-C-HomeWork\Seminar7Task48\obj\Debug\net6.0\ref\Seminar7Task48.dll
