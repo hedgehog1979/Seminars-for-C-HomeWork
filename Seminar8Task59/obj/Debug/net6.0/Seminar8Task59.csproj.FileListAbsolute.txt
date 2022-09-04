@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GeekBrains\Git\Practice\Seminars-for-C-HomeWork\Seminar8Task59\obj\Debug\net6.0\Seminar8Task59.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GeekBrains\Git\Practice\Seminars-for-C-HomeWork\Seminar8Task59\obj\Debug\net6.0\Seminar8Task59.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GeekBrains\Git\Practice\Seminars-for-C-HomeWork\Seminar8Task59\obj\Debug\net6.0\Seminar8Task59.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GeekBrains\Git\Practice\Seminars-for-C-HomeWork\Seminar8Task59\obj\Debug\net6.0\Seminar8Task59.AssemblyInfo.cs
+C:\Users\User\Documents\GeekBrains\Git\Practice\Seminars-for-C-HomeWork\Seminar8Task59\obj\Debug\net6.0\Seminar8Task59.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GeekBrains\Git\Practice\Seminars-for-C-HomeWork\Seminar8Task59\bin\Debug\net6.0\Seminar8Task59.exe
+C:\Users\User\Documents\GeekBrains\Git\Practice\Seminars-for-C-HomeWork\Seminar8Task59\bin\Debug\net6.0\Seminar8Task59.deps.json
+C:\Users\User\Documents\GeekBrains\Git\Practice\Seminars-for-C-HomeWork\Seminar8Task59\bin\Debug\net6.0\Seminar8Task59.runtimeconfig.json
+C:\Users\User\Documents\GeekBrains\Git\Practice\Seminars-for-C-HomeWork\Seminar8Task59\bin\Debug\net6.0\Seminar8Task59.dll
+C:\Users\User\Documents\GeekBrains\Git\Practice\Seminars-for-C-HomeWork\Seminar8Task59\bin\Debug\net6.0\Seminar8Task59.pdb
+C:\Users\User\Documents\GeekBrains\Git\Practice\Seminars-for-C-HomeWork\Seminar8Task59\obj\Debug\net6.0\Seminar8Task59.dll
+C:\Users\User\Documents\GeekBrains\Git\Practice\Seminars-for-C-HomeWork\Seminar8Task59\obj\Debug\net6.0\refint\Seminar8Task59.dll
+C:\Users\User\Documents\GeekBrains\Git\Practice\Seminars-for-C-HomeWork\Seminar8Task59\obj\Debug\net6.0\Seminar8Task59.pdb
+C:\Users\User\Documents\GeekBrains\Git\Practice\Seminars-for-C-HomeWork\Seminar8Task59\obj\Debug\net6.0\Seminar8Task59.genruntimeconfig.cache
+C:\Users\User\Documents\GeekBrains\Git\Practice\Seminars-for-C-HomeWork\Seminar8Task59\obj\Debug\net6.0\ref\Seminar8Task59.dll

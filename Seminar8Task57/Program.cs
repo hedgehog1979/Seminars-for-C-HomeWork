@@ -14,26 +14,26 @@ for (int i = 0; i < matrix.GetLength(0); i++)
 {
     for (int j = 0; j < matrix.GetLength(1); j++)
     {
-        matrix[i, j] = new Random().Next(-9, 9);
+        matrix[i, j] = new Random().Next(1, 5);
         Console.Write($"{matrix[i, j]}  ");
     }
     Console.WriteLine();
 }
-   int temp = matrix[0,0];
-   int count = 0;
 for (int a = 0; a < matrix.GetLength(0); a++)
 {
+    int temp = matrix[0, 0];
+    int count = 0;
+    int sum = 0;
     for (int b = 0; b < matrix.GetLength(1); b++)
     {
-    temp = matrix[a,b];
-    while (matrix[a,b] == temp)
-    {
-      count++;  
-      Console.WriteLine($"{temp} встречается {count} раз");
-      break;
-    //   count = 0;
-        } 
-     }
-    // count = 0;
-   } Console.WriteLine();
+        
+        temp = matrix[a, b];
+        if (matrix[a, b] == temp) sum = sum+count;
+        count++;
+        Console.WriteLine($"{temp} встречается {sum} раз");
+    }
+
+}
+
+Console.WriteLine();
 

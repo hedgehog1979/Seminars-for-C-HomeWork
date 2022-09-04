@@ -16,4 +16,4 @@ for(int j=0; j < arr.Length; j++)
 {
         if (arr[j] >= 10 && arr[j] <=99) count++;
 }
-Console.WriteLine($"Количество чисел в отрезке от 10 до 99 составвляет   {count}");
+Console.WriteLine($"Количество чисел в отрезке от 10 до 99 составляет   {count}");
